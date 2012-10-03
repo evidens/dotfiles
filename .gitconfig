@@ -1,0 +1,10 @@
+[user]
+	name = F. Gabriel Gosselin
+	email = gabriel.gosselin@hootsuite.com
+[credential]
+	helper = osxkeychain
+[color]
+	ui = auto
+[alias]
+	st = status
+	co = checkout
