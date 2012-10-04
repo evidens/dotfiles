@@ -297,6 +297,7 @@ Bundle 'surround.vim'
 
     " Clean trailing spaces in a file
     nmap <Leader>W :%s/\s\+$//<cr>:let @/=''<CR>
+    vmap <Leader>W :s/\s\+$//<cr>:let @/=''<CR>
 
     " Toggle mac meta (allow special character typing OR meta binding)
     nmap <Leader>M :set macmeta!
