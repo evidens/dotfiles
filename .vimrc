@@ -27,8 +27,8 @@
     " }
     " Backups {
           " Place backups in a better place
-          set backupdir=~/.config/.vim/backups/
-          set directory=~/.config/.vim/backups/
+          set backupdir=~/.vim/backups/
+          set directory=~/.vim/backups/
 
           if has("vms")
                 set nobackup    " do not keep a backup file, use versions instead
