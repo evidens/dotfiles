@@ -49,6 +49,7 @@ Bundle 'gmarik/vundle'
 " Github repos
 Bundle 'L9'
 Bundle 'vim-addon-mw-utils'
+Bundle 'tlib'
 Bundle 'garbas/vim-snipmate'
 Bundle 'honza/snipmate-snippets'
 Bundle 'scrooloose/nerdtree'
